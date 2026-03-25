@@ -1,0 +1,16 @@
+{
+  "name": "Chhaya Arora",
+  "short_name": "Chhaya",
+  "description": "Technical product manager focused on supply chain systems and operations-heavy products.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8ef",
+  "theme_color": "#fff8ef",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
